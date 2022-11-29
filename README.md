@@ -1,5 +1,6 @@
-### introduction
-In this project, the problem that we will be investigating is binary classification. We will use numbers of different features (information) about patients to predict whether they will survive the first year after surgery.
+### Introduction
+In this project, the problem that we will be investigating is binary classification.
+We will use numbers of different features (information) about patients to predict whether they will survive the first year after surgery.
 The data is dedicated to classification problem related to the post-operative life expectancy in the lung cancer patients after thoracic surgery in which there are two classes class 1 - the death of patients within one year after surgery and class 2 – the patients who survive.
 
 ### Features description
@@ -28,11 +29,15 @@ Risk1Y: 1 year survival period - (T)rue value if died (T,F)
 
 ### Data Analysis
 Taking the sample or patiens done some surgery and identifying no.of people having risk after surgery and patient dont have any risk.
-considering loot of features like pain,dyspnoea,cough etc in before and after surgery.By checking the details and done basic analysis and plotted graph for beter understanding
+considering loot of features like pain,dyspnoea,cough etc in before and after surgery.
+By checking the details and done basic analysis and plotted graph for beter understanding
 Decision tree is ploted for better understanding,it is a grapphical representation for all possible solution
 The model giving 78 percentage accuracy
 #### Tools used
-pandas,numpy,matplotlib,seaborn
+pandas
+numpy
+matplotlib
+seaborn
 #### conclusion
 The model have 78 percentage accuracy
 Acoording tothe analysis the no.of patient in class 1 is less than as compared with claas 2
