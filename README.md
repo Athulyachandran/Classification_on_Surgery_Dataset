@@ -33,12 +33,12 @@ considering loot of features like pain,dyspnoea,cough etc in before and after su
 By checking the details and done basic analysis and plotted graph for beter understanding
 Decision tree is ploted for better understanding,it is a grapphical representation for all possible solution
 The model giving 78 percentage accuracy
-#### Tools used
+### Tools used
 pandas
 numpy
 matplotlib
 seaborn
-#### conclusion
+### conclusion
 The model have 78 percentage accuracy
 Acoording tothe analysis the no.of patient in class 1 is less than as compared with claas 2
 so we can conclude that in this classification problem of after thoracic surgery in the more patient is survived after surgery
