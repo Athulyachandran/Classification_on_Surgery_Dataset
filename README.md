@@ -72,8 +72,8 @@ The model have 78 percentage accuracy
 
 Acoording tothe analysis the no.of patient in class 1 is less than as compared with claas 2
 
-so we can conclude that in this classification problem of after thoracic surgery in the more patient is survived after surgery
+So we can conclude that in this classification problem of after thoracic surgery in the more patient is survived after surgery
 
-more than 70 percentage patients are in no risk sector after surgery and below 30 percentage patients are in high risk catecory
+More than 70 percentage patients are in no risk sector after surgery and below 30 percentage patients are in high risk catecory
 
 
